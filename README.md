@@ -1,4 +1,4 @@
-# ⚡ @waylandmaxxer / Profile
+<h1> # ⚡ @waylandmaxxer / Profile </h1>
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
@@ -12,6 +12,7 @@
       <h3>💻 WORKSTATION SETUP</h3>
       <hr>
       <pre>
+      
 <b>OS</b>       • Kali Linux / Windows 11 Pro / Hackintosh 
 
 <b>SHELL</b>    • zsh / alacritty
