@@ -1,11 +1,10 @@
-# waylandmaxxer
 # ⚡ @waylandmaxxer / Profile
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <!-- Kolom Gambar -->
     <td width="35%" valign="top">
-      <img src="https://www.pinterest.com/pin/foxyriot-hope-linux-tux-4k-wallpaper-hdwallpaper-desktop--745486544573102042/" width="100%" style="border-radius: 10px;" alt="Banner">
+    <img width="736" height="414" alt="f8b25aff7683fad18b449904c2ae0638" src="https://github.com/user-attachments/assets/ab45b349-f789-45b8-a75a-97205232655c" />
     </td>
     
     <!-- Kolom Informasi -->
@@ -13,11 +12,11 @@
       <h3>💻 WORKSTATION SETUP</h3>
       <hr>
       <pre>
-<b>OS</b>       • Kali Linux / Windows 11 Pro / Hackintosh (Tripleboot)
+<b>OS</b>       • Kali Linux / Windows 11 Pro / Hackintosh 
+
 <b>SHELL</b>    • zsh / alacritty
 <b>DE/WM</b>    • Hyprland
       </pre>
-      
       <h3>🎯 INTEREST & SKILLS</h3>
       <hr>
       <pre>
