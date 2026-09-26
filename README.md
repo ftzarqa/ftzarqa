@@ -9,8 +9,7 @@
       <h3>💻 WORKSTATION SETUP</h3>
       <hr>
       <pre>
-      
-<b>OS</b>       • Kali Linux / Windows 11 Pro / Hackintosh 
+      <b>OS</b> • Cachy / Slopdows / Hackintosh 
 
 <b>SHELL</b>    • zsh / alacritty
 <b>DE/WM</b>    • Hyprland
@@ -18,9 +17,9 @@
       <h3>🎯 INTEREST & SKILLS</h3>
       <hr>
       <pre>
-<b>FOCUS</b>    • Coder & Penetration Testing
+<b>FOCUS</b>    • Coder & Penetration Testing (larp0)
 <b>STACK</b>    • React | Flask | PostgreSQL
-<b>CERT/CSF</b> • OWASP • CCNA
+<b>CERT/CSF</b> • CCNA
       </pre>
     </td>
   </tr>
