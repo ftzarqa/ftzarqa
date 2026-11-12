@@ -18,7 +18,7 @@
       <hr>
       <pre>
 <b>FOCUS</b>    • Coder & Penetration Testing (larp0)
-<b>STACK</b>    • React | Flask | PostgreSQL
+<b>STACK</b>    • Laravel | Flask | PostgreSQL
 <b>CERT/CSF</b> • CCNA
       </pre>
     </td>
